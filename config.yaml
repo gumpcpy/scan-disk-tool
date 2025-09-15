@@ -41,7 +41,7 @@ translations:
     error_no_output_folder: "Error: Please select CSV output location"
     error_no_rules: "Error: Please select at least one scan rule"
     copyright: "HuHu © 2025. All rights reserved."
-    version_text: '<a href="https://github.com/yourusername">Version: {}</a>'
+    version_text: '<a href="https://github.com/gumpcpy/scan-disk-tool">Version: {}</a>'
     select_folder_placeholder: "Please select scan path..."
     select_output_placeholder: "Please select CSV output location..."
     browse_button: "Browse..."
@@ -76,7 +76,7 @@ translations:
     error_no_output_folder: "錯誤：請選擇CSV輸出位置"
     error_no_rules: "錯誤：請至少選擇一個掃描規則"
     copyright: "HuHu © 2025。保留所有權利。"
-    version_text: '<a href="https://github.com/yourusername">版本：{}</a>'
+    version_text: '<a href="https://github.com/gumpcpy/scan-disk-tool">版本：{}</a>'
     select_folder_placeholder: "請選擇掃描路徑..."
     select_output_placeholder: "請選擇CSV輸出位置..."
     browse_button: "瀏覽..."
@@ -111,7 +111,7 @@ translations:
     error_no_output_folder: "错误：请选择CSV输出位置"
     error_no_rules: "错误：请至少选择一个扫描规则"
     copyright: "HuHu © 2025。保留所有权利。"
-    version_text: '<a href="https://github.com/yourusername">版本：{}</a>'
+    version_text: '<a href="https://github.com/gumpcpy/scan-disk-tool">版本：{}</a>'
     select_folder_placeholder: "请选择扫描路径..."
     select_output_placeholder: "请选择CSV输出位置..."
     browse_button: "浏览..."
