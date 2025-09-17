@@ -2,6 +2,11 @@
 
 一個基於PyQt5的硬碟掃描應用程序，可以根據特定規則掃描硬碟中的文件並輸出為CSV格式。
 
+## Screenshots
+<img width="702" height="534" alt="EN" src="https://github.com/user-attachments/assets/87d6d4ba-6216-4dcb-ba19-3074caa9f85f" />
+<img width="703" height="528" alt="TW" src="https://github.com/user-attachments/assets/956777e4-5ab2-451d-980a-99adff38feec" />
+<img width="786" height="528" alt="csv" src="https://github.com/user-attachments/assets/a9fe1544-5336-4a35-a5f2-a50009fb0797" />
+
 ## 功能特點
 
 - **多語言支持**: 支持英文、繁體中文、簡體中文
@@ -64,4 +69,3 @@ CSV文件包含兩個欄位：
 - 掃描大型目錄可能需要較長時間
 - 影像序列識別需要至少2個相同命名模式的文件
 - 建議在掃描前確保有足夠的磁碟空間保存CSV文件
-
